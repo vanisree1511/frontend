@@ -1,0 +1,28 @@
+#link1{
+    color: white;
+    font-family:serif;
+}
+.carousel-caption{
+    position: absolute;
+    top: 100px;
+}
+h5{
+    font-size: 60px;
+}
+.explore{
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+}
+.explore1{
+    height: 40px;
+    width: 150px;
+  
+}
+.explore1:active,.explore1:focus{
+     outline: none !important;
+    box-shadow: none !important ;
+}
+.head{
+    font-size: 40px;
+}
